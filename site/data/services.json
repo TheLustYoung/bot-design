@@ -1,0 +1,506 @@
+{
+ "groups": [
+  {
+   "key": "docs",
+   "title": {
+    "ru": "Документы и копии",
+    "en": "Documents and copies",
+    "hy": "Փաստաթղթեր և պատճեններ"
+   }
+  },
+  {
+   "key": "photo",
+   "title": {
+    "ru": "Фото",
+    "en": "Photo",
+    "hy": "Լուսանկար"
+   }
+  },
+  {
+   "key": "print",
+   "title": {
+    "ru": "Полиграфия и печать",
+    "en": "Printing",
+    "hy": "Տպագրություն"
+   }
+  },
+  {
+   "key": "design",
+   "title": {
+    "ru": "Дизайн",
+    "en": "Design",
+    "hy": "Դիզայն"
+   }
+  },
+  {
+   "key": "other",
+   "title": {
+    "ru": "Другое",
+    "en": "Other",
+    "hy": "Այլ"
+   }
+  }
+ ],
+ "services": [
+  {
+   "key": "copy",
+   "emoji": "📄",
+   "title": {
+    "ru": "Ксерокопия",
+    "en": "Photocopying",
+    "hy": "Քսերոպատճեն"
+   },
+   "group": "docs",
+   "asks": [
+    {
+     "ru": "Страниц",
+     "en": "Pages",
+     "hy": "Էջեր"
+    },
+    {
+     "ru": "Копий / комплектов",
+     "en": "Copies / sets",
+     "hy": "Պատճեններ / հավաքածուներ"
+    },
+    {
+     "ru": "Формат",
+     "en": "Format",
+     "hy": "Ֆորմատ"
+    },
+    {
+     "ru": "Цвет",
+     "en": "Colour",
+     "hy": "Գույն"
+    },
+    {
+     "ru": "Стороны",
+     "en": "Sides",
+     "hy": "Կողմեր"
+    }
+   ]
+  },
+  {
+   "key": "print_docs",
+   "emoji": "🖨",
+   "title": {
+    "ru": "Печать документов",
+    "en": "Document printing",
+    "hy": "Փաստաթղթերի տպագրություն"
+   },
+   "group": "docs",
+   "asks": [
+    {
+     "ru": "Страниц",
+     "en": "Pages",
+     "hy": "Էջեր"
+    },
+    {
+     "ru": "Копий / комплектов",
+     "en": "Copies / sets",
+     "hy": "Պատճեններ / հավաքածուներ"
+    },
+    {
+     "ru": "Формат",
+     "en": "Format",
+     "hy": "Ֆորմատ"
+    },
+    {
+     "ru": "Цвет",
+     "en": "Colour",
+     "hy": "Գույն"
+    },
+    {
+     "ru": "Стороны",
+     "en": "Sides",
+     "hy": "Կողմեր"
+    }
+   ]
+  },
+  {
+   "key": "scan",
+   "emoji": "🧾",
+   "title": {
+    "ru": "Сканирование",
+    "en": "Scanning",
+    "hy": "Սկանավորում"
+   },
+   "group": "docs",
+   "asks": [
+    {
+     "ru": "Страниц",
+     "en": "Pages",
+     "hy": "Էջեր"
+    },
+    {
+     "ru": "Формат",
+     "en": "Format",
+     "hy": "Ֆորմատ"
+    },
+    {
+     "ru": "Цвет",
+     "en": "Colour",
+     "hy": "Գույն"
+    },
+    {
+     "ru": "Куда отправить",
+     "en": "Send to",
+     "hy": "Ուր ուղարկել"
+    }
+   ]
+  },
+  {
+   "key": "photo_print",
+   "emoji": "🖼",
+   "title": {
+    "ru": "Печать фото",
+    "en": "Photo printing",
+    "hy": "Լուսանկարների տպագրություն"
+   },
+   "group": "photo",
+   "asks": [
+    {
+     "ru": "Размер",
+     "en": "Size",
+     "hy": "Չափս"
+    },
+    {
+     "ru": "Количество",
+     "en": "Quantity",
+     "hy": "Քանակ"
+    },
+    {
+     "ru": "Бумага",
+     "en": "Paper",
+     "hy": "Թուղթ"
+    },
+    {
+     "ru": "Ретушь",
+     "en": "Retouching",
+     "hy": "Ռետուշ"
+    }
+   ]
+  },
+  {
+   "key": "passport_photo",
+   "emoji": "🪪",
+   "title": {
+    "ru": "Фото на документы",
+    "en": "Passport / ID photos",
+    "hy": "Լուսանկար փաստաթղթերի համար"
+   },
+   "group": "photo",
+   "asks": [
+    {
+     "ru": "Документ",
+     "en": "Document",
+     "hy": "Փաստաթուղթ"
+    },
+    {
+     "ru": "Количество",
+     "en": "Quantity",
+     "hy": "Քանակ"
+    },
+    {
+     "ru": "Съёмка",
+     "en": "Photo",
+     "hy": "Լուսանկարում"
+    }
+   ]
+  },
+  {
+   "key": "large_format",
+   "emoji": "🗺",
+   "title": {
+    "ru": "Плакаты и большой формат",
+    "en": "Posters and large format",
+    "hy": "Պլակատներ և մեծ ֆորմատ"
+   },
+   "group": "print",
+   "asks": [
+    {
+     "ru": "Размер",
+     "en": "Size",
+     "hy": "Չափս"
+    },
+    {
+     "ru": "Материал",
+     "en": "Material",
+     "hy": "Նյութ"
+    },
+    {
+     "ru": "Количество",
+     "en": "Quantity",
+     "hy": "Քանակ"
+    },
+    {
+     "ru": "Обработка",
+     "en": "Finishing",
+     "hy": "Մշակում"
+    }
+   ]
+  },
+  {
+   "key": "cards_flyers",
+   "emoji": "📇",
+   "title": {
+    "ru": "Визитки, листовки, буклеты",
+    "en": "Business cards, flyers, booklets",
+    "hy": "Այցեքարտեր, թռուցիկներ, բուկլետներ"
+   },
+   "group": "print",
+   "asks": [
+    {
+     "ru": "Изделие",
+     "en": "Product",
+     "hy": "Ապրանք"
+    },
+    {
+     "ru": "Количество",
+     "en": "Quantity",
+     "hy": "Քանակ"
+    },
+    {
+     "ru": "Размер",
+     "en": "Size",
+     "hy": "Չափս"
+    },
+    {
+     "ru": "Стороны",
+     "en": "Sides",
+     "hy": "Կողմեր"
+    },
+    {
+     "ru": "Бумага",
+     "en": "Paper",
+     "hy": "Թուղթ"
+    }
+   ]
+  },
+  {
+   "key": "stickers",
+   "emoji": "✂️",
+   "title": {
+    "ru": "Наклейки и плоттерная резка",
+    "en": "Stickers and plotter cutting",
+    "hy": "Կպչուններ և պլոտերային կտրում"
+   },
+   "group": "print",
+   "asks": [
+    {
+     "ru": "Изделие",
+     "en": "Product",
+     "hy": "Ապրանք"
+    },
+    {
+     "ru": "Размер",
+     "en": "Size",
+     "hy": "Չափս"
+    },
+    {
+     "ru": "Количество",
+     "en": "Quantity",
+     "hy": "Քանակ"
+    },
+    {
+     "ru": "Материал",
+     "en": "Material",
+     "hy": "Նյութ"
+    }
+   ]
+  },
+  {
+   "key": "laser",
+   "emoji": "🔦",
+   "title": {
+    "ru": "Лазерная резка и гравировка",
+    "en": "Laser cutting and engraving",
+    "hy": "Լազերային կտրում և փորագրություն"
+   },
+   "group": "print",
+   "asks": [
+    {
+     "ru": "Операция",
+     "en": "Operation",
+     "hy": "Գործողություն"
+    },
+    {
+     "ru": "Материал",
+     "en": "Material",
+     "hy": "Նյութ"
+    },
+    {
+     "ru": "Размер",
+     "en": "Size",
+     "hy": "Չափս"
+    },
+    {
+     "ru": "Количество",
+     "en": "Quantity",
+     "hy": "Քանակ"
+    }
+   ]
+  },
+  {
+   "key": "postpress",
+   "emoji": "📎",
+   "title": {
+    "ru": "Переплёт, ламинирование, обработка",
+    "en": "Binding, lamination, finishing",
+    "hy": "Կազմում, լամինացիա, մշակում"
+   },
+   "group": "docs",
+   "asks": [
+    {
+     "ru": "Операция",
+     "en": "Operation",
+     "hy": "Գործողություն"
+    },
+    {
+     "ru": "Количество",
+     "en": "Quantity",
+     "hy": "Քանակ"
+    },
+    {
+     "ru": "Формат",
+     "en": "Format",
+     "hy": "Ֆորմատ"
+    }
+   ]
+  },
+  {
+   "key": "design",
+   "emoji": "🎨",
+   "title": {
+    "ru": "Дизайн и фирменный стиль",
+    "en": "Design and branding",
+    "hy": "Դիզայն և ֆիրմային ոճ"
+   },
+   "group": "design",
+   "asks": [
+    {
+     "ru": "Что нужно",
+     "en": "Request",
+     "hy": "Հարցում"
+    },
+    {
+     "ru": "О бизнесе и задаче",
+     "en": "About the business and task",
+     "hy": "Բիզնեսի և խնդրի մասին"
+    },
+    {
+     "ru": "Примеры / пожелания",
+     "en": "Examples / wishes",
+     "hy": "Օրինակներ / ցանկություններ"
+    }
+   ]
+  },
+  {
+   "key": "retouch",
+   "emoji": "✨",
+   "title": {
+    "ru": "Ретушь и обработка фото",
+    "en": "Photo retouching",
+    "hy": "Լուսանկարների ռետուշ"
+   },
+   "group": "photo",
+   "asks": [
+    {
+     "ru": "Что нужно",
+     "en": "Request",
+     "hy": "Հարցում"
+    },
+    {
+     "ru": "Количество",
+     "en": "Quantity",
+     "hy": "Քանակ"
+    },
+    {
+     "ru": "Печать",
+     "en": "Printing",
+     "hy": "Տպագրություն"
+    }
+   ]
+  },
+  {
+   "key": "merch",
+   "emoji": "🎁",
+   "title": {
+    "ru": "Мерч и сувениры",
+    "en": "Merch and souvenirs",
+    "hy": "Մերչ և հուշանվերներ"
+   },
+   "group": "print",
+   "asks": [
+    {
+     "ru": "Что нужно",
+     "en": "Request",
+     "hy": "Հարցում"
+    },
+    {
+     "ru": "Количество",
+     "en": "Quantity",
+     "hy": "Քանակ"
+    }
+   ]
+  },
+  {
+   "key": "other",
+   "emoji": "💬",
+   "title": {
+    "ru": "Другое",
+    "en": "Something else",
+    "hy": "Այլ"
+   },
+   "group": "other",
+   "asks": [
+    {
+     "ru": "Что нужно",
+     "en": "Request",
+     "hy": "Հարցում"
+    }
+   ]
+  }
+ ],
+ "faq": {
+  "price": {
+   "ru": "Цена зависит от того, что именно печатаем: формата, количества, цвета и бумаги. Ответьте на несколько коротких вопросов (или пришлите файл), и менеджер назовёт точную стоимость и срок.",
+   "en": "The price depends on what exactly we print: format, quantity, colour and paper. Answer a few short questions (or send a file) and the manager will give you the exact price and timing.",
+   "hy": "Գինը կախված է նրանից՝ ինչ ենք տպում․ ֆորմատ, քանակ, գույն և թուղթ։ Պատասխանեք մի քանի կարճ հարցի (կամ ուղարկեք ֆայլ), և մենեջերը կնշի ճշգրիտ արժեքը և ժամկետը։"
+  },
+  "timing": {
+   "ru": "Многие заказы (печать документов, визитки, плакаты) делаются в день обращения. Точный срок зависит от тиража и обработки: менеджер подтвердит его после заявки. Если срочно, отметьте это в заявке.",
+   "en": "Many orders (document printing, business cards, posters) are done the same day. The exact time depends on quantity and finishing: the manager will confirm it after your request. If it is urgent, mark it in the request.",
+   "hy": "Շատ պատվերներ (փաստաթղթերի տպագրություն, այցեքարտեր, պլակատներ) կատարվում են նույն օրը։ Ճշգրիտ ժամկետը կախված է տպաքանակից և մշակումից․ մենեջերը կհաստատի հայտից հետո։ Եթե շտապ է, նշեք հայտում։"
+  },
+  "files": {
+   "ru": "Файл можно прислать прямо сюда: фото, PDF, Word, картинку. Для печати лучше PDF; фото и макеты желательно в хорошем разрешении (от 300 dpi), для полиграфии с запасом под обрез по 3 мм. Если не уверены, присылайте как есть: менеджер проверит и подскажет.",
+   "en": "You can send the file right here: a photo, PDF, Word document or image. PDF is best for printing; photos and layouts should be in good resolution (300 dpi or more), and for print products with a 3 mm bleed. If you are not sure, send it as it is: the manager will check it and advise.",
+   "hy": "Ֆայլը կարող եք ուղարկել հենց այստեղ․ լուսանկար, PDF, Word, նկար։ Տպագրության համար լավագույնը PDF-ն է․ լուսանկարները և մակետները նախընտրելի է լավ թույլտվությամբ (300 dpi և ավելի), պոլիգրաֆիայի համար՝ 3 մմ պահուստով։ Եթե վստահ չեք, ուղարկեք ինչպես կա․ մենեջերը կստուգի և կխորհուրդ կտա։"
+  },
+  "payment": {
+   "ru": "Оплата картой. Другие способы и условия предоплаты для больших заказов подтвердит менеджер.",
+   "en": "Card payment is accepted. The manager will confirm other methods and prepayment terms for large orders.",
+   "hy": "Վճարումը՝ քարտով։ Այլ եղանակները և խոշոր պատվերների կանխավճարի պայմանները կհաստատի մենեջերը։"
+  },
+  "delivery": {
+   "ru": "Заказ можно забрать в центре. Доставку и её стоимость подтвердит менеджер: отметьте это в заявке.",
+   "en": "You can pick the order up at the centre. The manager will confirm delivery and its cost: mark it in the request.",
+   "hy": "Պատվերը կարելի է վերցնել կենտրոնից։ Առաքումը և դրա արժեքը կհաստատի մենեջերը․ նշեք հայտում։"
+  },
+  "minimum": {
+   "ru": "Минимальный заказ небольшой: можно напечатать или скопировать даже один лист. Для тиражей цену и условия назовёт менеджер.",
+   "en": "The minimum order is small: you can print or copy even a single sheet. For larger runs the manager will give the price and terms.",
+   "hy": "Նվազագույն պատվերը փոքր է․ կարելի է տպել կամ պատճենել նույնիսկ մեկ թերթ։ Տպաքանակների համար գինը և պայմանները կնշի մենեջերը։"
+  },
+  "hours": {
+   "ru": "Мы работаем до 19:00 (по данным карточки на Яндекс Картах; дни и точное время подтвердить). Адрес: Ереван, просп. Маштоца, 42, подъезд 1.",
+   "en": "We are open until 19:00 (per the Yandex Maps listing; confirm days and exact hours). Address: 42 Mashtots Ave., entrance 1, Yerevan.",
+   "hy": "Մենք աշխատում ենք մինչև 19:00 (Yandex Maps-ի քարտի համաձայն. օրերը և ճշգրիտ ժամերը հաստատել)։ Հասցե՝ Երևան, Մաշտոցի պող. 42, մուտք 1։"
+  },
+  "address": {
+   "ru": "Мы находимся по адресу: Ереван, просп. Маштоца, 42, подъезд 1.\nНа карте: https://yandex.com/maps/org/dizayn_fektyri/14146943060/",
+   "en": "We are at: 42 Mashtots Ave., entrance 1, Yerevan.\nOn the map: https://yandex.com/maps/org/dizayn_fektyri/14146943060/",
+   "hy": "Մեր հասցեն՝ Երևան, Մաշտոցի պող. 42, մուտք 1։\nՔարտեզի վրա՝ https://yandex.com/maps/org/dizayn_fektyri/14146943060/"
+  }
+ }
+}

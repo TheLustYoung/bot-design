@@ -1,0 +1,13 @@
+{
+  "name": "Дизайн Фектори",
+  "name_en": "Design Factory",
+  "name_hy": "Դիզայն Ֆեքթորի",
+  "address": {"ru": "Ереван, просп. Маштоца, 42, подъезд 1", "en": "42 Mashtots Ave., entrance 1, Yerevan", "hy": "Երևան, Մաշտոցի պող. 42, մուտք 1"},
+  "phone": "+374 95 054044",
+  "whatsapp": "37495054044",
+  "hours": {"ru": "до 19:00 (по данным карточки на Яндекс Картах; дни и точное время подтвердить)", "en": "until 19:00 (per the Yandex Maps listing; confirm days and exact hours)", "hy": "մինչև 19:00 (Yandex Maps-ի քարտի համաձայն. օրերը և ճշգրիտ ժամերը հաստատել)"},
+  "map": "https://yandex.com/maps/org/dizayn_fektyri/14146943060/",
+  "rating": "5,0",
+  "ratings_count": 75,
+  "confirm": ["hours", "payment", "instagram", "whatsapp"]
+}
